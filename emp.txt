@@ -1,0 +1,3 @@
+Name  = maitree
+Age  = 18
+Salary  = 250000.00
